@@ -6,7 +6,7 @@
 - Sorry for any inconvenience, we are updating the repo
 ``` -->
 ```diff
-- We have just updated the last version of DexiNed in Pytorch. The implementation with TF1 will fransfer to the "legacy" dir
+- We have just updated the last version of DexiNed in Pytorch. The implementation with TF1 will Transfer to the "legacy" dir
 
 ```
 
